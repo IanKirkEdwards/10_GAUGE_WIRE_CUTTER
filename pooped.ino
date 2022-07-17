@@ -1,6 +1,7 @@
 /*  Description  
  *   This project runs the wire snipper tool <tool_id> that feeds wire to a certain
  *   length, strips one or both ends, and, optionally, solders the first stripped end.
+ *   FARTS TEST
 */
 
 //------------------------------- libraries ----------------------------------
